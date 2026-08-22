@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Vineeth - Product Owner"
-    email: "Vineeth@eazybank.com"
+    email: "{cipher}19d20d1103d68fd2df666e0887d87d329b5194d6ad843224ddddc34c9420c3ee4b14e8323eeeb4a545aa331091375656"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
