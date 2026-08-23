@@ -5,8 +5,8 @@ build:
 cards:
   message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
-    name: "Vineeth - Product Owner"
-    email: "vineeth@eazybank.com"
+    name: "Shadow - Product Owner"
+    email: "shadow@eazybank.com"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
