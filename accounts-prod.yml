@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs "
+  message: "Welcome to EazyBank accounts related docker test APIs "
   contactDetails:
     name: "Vineeth - Product Owner"
     email: "{cipher}19d20d1103d68fd2df666e0887d87d329b5194d6ad843224ddddc34c9420c3ee4b14e8323eeeb4a545aa331091375656"
